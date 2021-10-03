@@ -1,0 +1,181 @@
+<!doctype html>
+<html class="no-js loading " lang="en">
+
+<!-- Mirrored from gitter.im/chinchang/hint.css?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 21 Jul 2017 21:56:37 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=IE10" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1"/>
+	<meta charset="utf-8">
+
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+
+	<title>chinchang/hint.css - Gitter</title>
+  <meta property="og:title" content="chinchang/hint.html"/>
+  <meta property="og:description" content="A CSS only tooltip library for your lovely websites."/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:image" content="https://avatars-04.gitter.im/group/iv/3/57542cebc43b8c6019777cf0"/>
+  <meta property="fb:app_id" content=""/>
+  <meta property="twitter:card" content="summary"/>
+  <meta property="twitter:site" content="@gitchat"/>
+  <meta property="twitter:title" content="chinchang/hint.html"/>
+  <meta property="twitter:description" content="A CSS only tooltip library for your lovely websites."/>
+  <meta property="twitter:image" content="https://avatars-04.gitter.im/group/iv/3/57542cebc43b8c6019777cf0"/>
+  <link rel="stylesheet" href='../../cdn01.gitter.im/_s/708c5ff/styles/router-nli-app.css'>
+  <link id="favicon" rel="shortcut icon" href="http://cdn03.gitter.im/_s/708c5ff/images/favicon-normal.ico">
+
+      <link rel="preload" href="http://cdn03.gitter.im/_s/708c5ff/fonts/sourcesans/SourceSansPro-Regular.otf.woff" as="font" type="font/woff">
+    <link rel="preload" href="http://cdn01.gitter.im/_s/708c5ff/fonts/sourcesans/SourceSansPro-It.otf.woff" as="font" type="font/woff">
+    <link rel="preload" href="http://cdn01.gitter.im/_s/708c5ff/fonts/sourcesans/SourceSansPro-Bold.otf.woff" as="font" type="font/woff">
+    <link rel="preload" href="http://cdn02.gitter.im/_s/708c5ff/fonts/sourcesans/SourceSansPro-Semibold.otf.woff" as="font" type="font/woff">
+    <link rel="preload" href="http://cdn03.gitter.im/_s/708c5ff/fonts/sourcesans/SourceSansPro-BoldIt.otf.woff" as="font" type="font/woff">
+    <link rel="preload" href="http://cdn02.gitter.im/_s/708c5ff/fonts/sourcesans/SourceSansPro-Light.otf.woff" as="font" type="font/woff">
+    <link rel="preload" href="http://cdn03.gitter.im/_s/708c5ff/fonts/sourcesans/SourceSansPro-ExtraLight.otf.woff" as="font" type="font/woff">
+
+  <style>
+    @font-face {
+      font-family: 'SourceSansLocal';
+      font-style: normal;
+      font-weight: bold;
+      src: local("SourceSansPro-Bold");
+    }
+    @font-face {
+      font-family: 'SourceSansLocal';
+      font-style: italic;
+      font-weight: bold;
+      src: local("SourceSansPro-BoldIt");
+    }
+    @font-face {
+      font-family: 'SourceSansLocal';
+      font-style: normal;
+      font-weight: 200;
+      src: local("SourceSansPro-ExtraLight");
+    }
+    @font-face {
+      font-family: 'SourceSansLocal';
+      font-style: italic;
+      font-weight: normal;
+      src: local("SourceSansPro-It");
+    }
+    @font-face {
+      font-family: 'SourceSansLocal';
+      font-style: normal;
+      font-weight: 300;
+      src: local("SourceSansPro-Light");
+    }
+    @font-face {
+      font-family: 'SourceSansLocal';
+      font-style: normal;
+      font-weight: normal;
+      src: local("SourceSansPro-Regular");
+    }
+    @font-face {
+      font-family: 'SourceSansLocal';
+      font-style: normal;
+      font-weight: 600;
+      src: local("SourceSansPro-Semibold");
+    }
+    @font-face {
+      font-family: "source-sans-pro";
+      src: url("http://cdn03.gitter.im/_s/708c5ff/fonts/sourcesans/SourceSansPro-Regular.otf.woff") format('woff');
+      font-weight: normal;
+      font-style: normal
+    }
+    @font-face {
+      font-family: "source-sans-pro";
+      src: url("http://cdn01.gitter.im/_s/708c5ff/fonts/sourcesans/SourceSansPro-It.otf.woff") format('woff');
+      font-weight: normal;
+      font-style: italic
+    }
+    @font-face {
+      font-family: "source-sans-pro";
+      src: url("http://cdn01.gitter.im/_s/708c5ff/fonts/sourcesans/SourceSansPro-Bold.otf.woff") format('woff');
+      font-weight: bold;
+      font-style: normal
+    }
+    @font-face {
+      font-family: "source-sans-pro";
+      src: url("http://cdn02.gitter.im/_s/708c5ff/fonts/sourcesans/SourceSansPro-Semibold.otf.woff") format('woff');
+      font-weight: 600;
+      font-style: normal
+    }
+    @font-face {
+      font-family: "source-sans-pro";
+      src: url("http://cdn03.gitter.im/_s/708c5ff/fonts/sourcesans/SourceSansPro-BoldIt.otf.woff") format('woff');
+      font-weight: bold;
+      font-style: italic
+    }
+    @font-face {
+      font-family: "source-sans-pro";
+      src: url("http://cdn02.gitter.im/_s/708c5ff/fonts/sourcesans/SourceSansPro-Light.otf.woff") format('woff');
+      font-weight: 300;
+      font-style: normal
+    }
+    @font-face {
+      font-family: "source-sans-pro";
+      src: url("http://cdn03.gitter.im/_s/708c5ff/fonts/sourcesans/SourceSansPro-ExtraLight.otf.woff") format('woff');
+      font-weight: 200;
+      font-style: normal
+    }
+  </style>
+
+  <link rel="dns-prefetch" href="cdn01.gitter.html">
+  <link rel="dns-prefetch" href="cdn02.gitter.html">
+  <link rel="dns-prefetch" href="cdn03.gitter.html">
+  <link rel="dns-prefetch" href="ws.gitter.html">
+</head>
+<body class="logged-out">
+
+  <div class="app-layout">
+    <div class="nli-menu__logo">
+      <div class="logo-holder logo-animation">
+  <div class="logo-left-arm logo-animation"></div>
+  <div class="logo-body-left logo-animation"></div>
+  <div class="logo-body-right logo-animation"></div>
+  <div class="logo-right-arm logo-animation"></div>
+</div>
+      <img class="nli-menu__logo-text" src='http://cdn03.gitter.im/_s/708c5ff/images/gitter-vector-logo.svg'>
+    </div>
+
+
+    <nav class="nli-menu">
+
+      <h1 class="nli-menu__header">
+        Where communities thrive
+      </h1>
+
+      <h2 class="nli-menu__features-header">
+        Free for communities
+      </h2>
+
+      <dl class="nli-menu__features">
+
+        <dd>Join over <strong>800K+ people</strong></dd>
+        <dd>Join over <strong>90K+ communities</strong></dd>
+        <dd>Create <strong>your own community</strong></dd>
+
+      </dl>
+
+      <dl class="nli-menu__features">
+        <dd><a href="https://gitter.im/explore">Explore more communities</a></dd>
+      </dl>
+
+      <small class="nli-menu__footer">Browser, <a href="https://gitter.im/apps">Desktop</a> and <a href="https://gitter.im/apps">Mobile</a> Apps.</small>
+    </nav>
+
+    <div id="iframe-region" class="iframe-region">
+      <iframe id="content-frame" src="hint.css/_chat.html#initial" style="display: block; width: 100%; height: 100%; border: 0;" frameBorder="0"></iframe>
+    </div>
+  </div>
+
+  
+
+  <script type="text/javascript">window.gitterClientEnv = {"lang":"en","domain":"gitter.im","baseServer":"gitter.im","basePath":"https://gitter.im","apiBasePath":"https://gitter.im/api","homeUrl":"/","badgeBaseUrl":"https://badges.gitter.im","googleTrackingId":"UA-45918290-1","googleTrackingDomain":"gitter.im","env":"prod","cdns":["cdn01.gitter.im","cdn02.gitter.im","cdn03.gitter.im"],"version":"708c5f","assetTag":"708c5ff","logging":false,"ravenUrl":"https://0f50f03f994740328ab6a67c82395948@app.getsentry.com/19257","websockets":{"fayeUrl":"https://ws.gitter.im/bayeux","options":{"timeout":120,"retry":2}},"avatarsUrl":"https://avatars.gitter.im","avatarCdns":["https://avatars-01.gitter.im","https://avatars-02.gitter.im/","https://avatars-03.gitter.im/","https://avatars-04.gitter.im/","https://avatars-05.gitter.im"],"embed":{"basepath":"https://embed.gitter.im","cacheBuster":"1"},"vapidAppServerKey":"BMhrlZd_I5OFJSJQTbg2mZ5PTHarzenwsKfsRd8C0-HRBygpDj9O3M4VTJIQfB9VPDjAoO_w2eg7Sj_cMXzuLwI","headlineNumbers":{"gitterUsers":"800K+","gitterRooms":"300K+","gitterGroups":"90K+","gitterCountries":"100+"}};window.troupeContext = {"accessToken":"$eufBOFj4IDu2jjKYBsUeqwI9KodboGbNf5kDzmZm330=","isNativeDesktopApp":false,"locale":{"%d unread message":{"one":"%d unread message","other":"%d unread messages"},"Unread messages in %%s, %%s and one other":{"one":"Unread messages in %%s, %%s and one other","other":"Unread messages in %%s, %%s and %d others"},"Unread messages in %s":"Unread messages in %s","Unread messages in %s and %s":"Unread messages in %s and %s","Unread messages from %s":"Unread messages from %s","Unread messages from %s and %s":"Unread messages from %s and %s","Unread messages from %%s, %%s and one other":{"one":"Unread messages from %%s, %%s and one other","other":"Unread messages from %%s, %%s and %d others"}},"features":[],"roomMember":false,"user":null,"group":{"id":"57542cebc43b8c6019777cf0","name":"chinchang","uri":"chinchang","homeUri":"chinchang/home","backedBy":{"type":"GH_USER","linkPath":"chinchang"},"avatarUrl":"https://avatars-04.gitter.im/group/iv/3/57542cebc43b8c6019777cf0"},"troupe":{"id":"56afa63fe610378809bf5807","name":"chinchang/hint.css","topic":"A CSS only tooltip library for your lovely websites.","avatarUrl":"https://avatars-04.gitter.im/group/iv/3/57542cebc43b8c6019777cf0","uri":"chinchang/hint.css","userCount":7,"url":"/chinchang/hint.css","githubType":"REPO","associatedRepo":"chinchang/hint.css","security":"PUBLIC","groupId":"57542cebc43b8c6019777cf0","group":{"id":"57542cebc43b8c6019777cf0","name":"chinchang","uri":"chinchang","homeUri":"chinchang/home","backedBy":{"type":"GH_USER","linkPath":"chinchang"},"avatarUrl":"https://avatars-04.gitter.im/group/iv/3/57542cebc43b8c6019777cf0"},"backend":{"type":"GH_REPO","linkPath":"chinchang/hint.css"},"public":true},"suggestedRoomsHidden":null,"leftRoomMenuState":{"state":"org","groupId":"57542cebc43b8c6019777cf0","hasDismissedSuggestions":null,"roomMenuIsPinned":null},"snapshots":{"leftMenu":{"state":"org","groupId":"57542cebc43b8c6019777cf0","hasDismissedSuggestions":null,"roomMenuIsPinned":null},"allRooms":[],"groups":[]}};</script>
+
+  <script type='text/javascript'>window.webpackPublicPath = 'http://cdn02.gitter.im/_s/708c5ff/js/';</script><script type='text/javascript' src='../../cdn02.gitter.im/_s/708c5ff/js/vendor.js'></script><script type='text/javascript' src='../../cdn03.gitter.im/_s/708c5ff/js/router-nli-app.js'></script>
+  
+</body>
+
+<!-- Mirrored from gitter.im/chinchang/hint.css?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 21 Jul 2017 21:56:44 GMT -->
+</html>

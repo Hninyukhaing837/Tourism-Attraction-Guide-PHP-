@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 18 Dec 2017 18:05:15 at http://getbootstrap.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://getbootstrap.com/ -O1 "C:\My Web Sites\bootstrap4" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:09:47	Error: 	"Not Found" (404) at link https://getbootstrap.com/docs/css/ (from https://getbootstrap.com/docs/3.3/)
+18:09:47	Error: 	"Not Found" (404) at link https://getbootstrap.com/docs/getting-started/ (from https://getbootstrap.com/docs/3.3/)
+18:09:52	Error: 	"Not Found" (404) at link https://getbootstrap.com/docs/assets/js/vendor/jquery.min.js (from https://getbootstrap.com/docs/3.3/)
+18:09:52	Warning: 	Retry after error -4 (Connect Error) at link secure.gaug.es/track.js (from https://getbootstrap.com/docs/3.3/)
+18:10:30	Warning: 	Retry after error -4 (Connect Error) at link platform.twitter.com/widgets.js (from https://getbootstrap.com/2.3.2/)
+18:10:31	Error: 	"Not Found" (404) at link getbootstrap.com/assets/js/vendor/jquery.min.js (from getbootstrap.com/docs/4.0/examples/starter-template/)
+18:11:07	Warning: 	Retry after error -4 (Connect Error) at link secure.gaug.es/track.js (from https://getbootstrap.com/docs/3.3/)
+18:11:35	Warning: 	Retry after error -4 (Connect Error) at link platform.twitter.com/widgets.js (from https://getbootstrap.com/2.3.2/)
+18:11:38	Error: 	"Not Found" (404) at link https://getbootstrap.com/docs/3.3/favicon.ico (from https://getbootstrap.com/docs/3.3/examples/starter-template/)
+18:11:57	Error: 	"Connect Error" (-4) after 2 retries at link secure.gaug.es/track.js (from https://getbootstrap.com/docs/3.3/)
+18:11:57	Error: 	"Connect Error" (-4) after 2 retries at link platform.twitter.com/widgets.js (from https://getbootstrap.com/2.3.2/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 42 seconds : 347 links scanned, 334 files written (14191467 bytes overall) [8393416 bytes received at 20879 bytes/sec], 7978699 bytes transferred using HTTP compression in 242 files, ratio 23%, 5.0 requests per connection
+(7 errors, 4 warnings, 0 messages)

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chinchang/hint.css/commits/v1.3.1</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commits/v1.3.1"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chinchang/hint.css/commits/v1.3.1.atom"/>
+  <title>Recent Commits to hint.css:v1.3.1</title>
+  <updated>2013-11-23T15:13:32Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/55925cc4f974e6c17502d08f6f263282ea53de0d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/55925cc4f974e6c17502d08f6f263282ea53de0d"/>
+    <title>
+        Merge branch &#39;release-v1.3.1&#39;
+    </title>
+    <updated>2013-11-23T15:13:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;release-v1.3.1&amp;#39;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d5a916e625c92995b0f72cabdb3cea58fe70885d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/d5a916e625c92995b0f72cabdb3cea58fe70885d"/>
+    <title>
+        [1.3.1] Bump version and update builds.
+    </title>
+    <updated>2013-11-23T15:11:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;[1.3.1] Bump version and update builds.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5624b2815395151616d3a47100793d6779cce8bb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/5624b2815395151616d3a47100793d6779cce8bb"/>
+    <title>
+        Remove inkpen
+    </title>
+    <updated>2013-11-23T14:51:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove inkpen&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/abfe4ad4fe4d5d650be2dbc91ed4a3ce6839b7ab</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/abfe4ad4fe4d5d650be2dbc91ed4a3ce6839b7ab"/>
+    <title>
+        Separate out font-size and padding as variables.
+    </title>
+    <updated>2013-11-23T14:34:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Separate out font-size and padding as variables.
+
+Its now possible to create more variations for your tooltips
+by tweaking fontsizes and padding and everything else is handled
+for you.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d2d136b776e364832c21cb3ffe3aa4a24dd78e2d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/d2d136b776e364832c21cb3ffe3aa4a24dd78e2d"/>
+    <title>
+        Add grunt watch task.
+    </title>
+    <updated>2013-11-23T14:33:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add grunt watch task.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/df7012c410d8ca611d8cfb065080f20bfdf9e9ee</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/df7012c410d8ca611d8cfb065080f20bfdf9e9ee"/>
+    <title>
+        Fix version in component.json
+    </title>
+    <updated>2013-11-23T14:08:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix version in component.json&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dfed58f8a180c7640301faaf6d9d61f00b27ec6e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/dfed58f8a180c7640301faaf6d9d61f00b27ec6e"/>
+    <title>
+        added component.json
+    </title>
+    <updated>2013-11-23T14:07:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://0.gravatar.com/avatar/5fa5f22db77f6a3a8e7b05f9293812c8?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=x&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>justin.starry@me.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;added component.json&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f4d5c2d47c2df47384a1c2082b5a85b023fb0579</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/f4d5c2d47c2df47384a1c2082b5a85b023fb0579"/>
+    <title>
+        Fix project homepage link in main SASS file. Fixes #44
+    </title>
+    <updated>2013-11-22T20:54:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix project homepage link in main SASS file. Fixes #44&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ee05547a2635ba6352fe67402ed654538dc81f4f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/ee05547a2635ba6352fe67402ed654538dc81f4f"/>
+    <title>
+        Add newline.
+    </title>
+    <updated>2013-11-22T20:15:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add newline.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/398dd42d43a39de9593dc256ae409c041cdfedc2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/398dd42d43a39de9593dc256ae409c041cdfedc2"/>
+    <title>
+        - Add !default to `prefix` variable and fix its comment.
+    </title>
+    <updated>2013-11-22T20:11:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;- Add !default to `prefix` variable and fix its comment.
+- Tweak readme doc for prefix change.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e215c3e8fa41cc922c33b834e1632c6ff8113edb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/e215c3e8fa41cc922c33b834e1632c6ff8113edb"/>
+    <title>
+        Merge branch &#39;katgironpe-master&#39; into dev
+    </title>
+    <updated>2013-11-22T20:04:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;katgironpe-master&amp;#39; into dev&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/466f2b917f9a86061b352079e30fc3b63d3130cd</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/466f2b917f9a86061b352079e30fc3b63d3130cd"/>
+    <title>
+        Don&#39;t ignore src in bower.json
+    </title>
+    <updated>2013-11-22T19:44:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/4344?v=4&amp;s=30"/>
+    <author>
+      <name>nixme</name>
+      <uri>https://github.com/nixme</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Don&amp;#39;t ignore src in bower.json&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d3be84c7f5cf17f650ca46ccee20624cdd570e5a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/d3be84c7f5cf17f650ca46ccee20624cdd570e5a"/>
+    <title>
+        Allow changing &#39;hint--&#39; prefix to something else.
+    </title>
+    <updated>2013-11-22T19:18:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/50656?v=4&amp;s=30"/>
+    <author>
+      <name>katgironpe</name>
+      <uri>https://github.com/katgironpe</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Allow changing &amp;#39;hint--&amp;#39; prefix to something else.
+fixes chinchang/hint.css/#12&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/029170a7dbece6d2688e0df54d256e53c01f68ed</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/029170a7dbece6d2688e0df54d256e53c01f68ed"/>
+    <title>
+        Add gittip link :)
+    </title>
+    <updated>2013-09-28T07:54:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add gittip link :)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b11c1745cb83c16df839f6878a9474dca5ac401a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/b11c1745cb83c16df839f6878a9474dca5ac401a"/>
+    <title>
+        add tridiv to hint user list
+    </title>
+    <updated>2013-09-17T19:36:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add tridiv to hint user list&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8b4f645798c465a0c6dbcde193019351ae916a83</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/8b4f645798c465a0c6dbcde193019351ae916a83"/>
+    <title>
+        Merge branch &#39;release-v1.3.0&#39;
+    </title>
+    <updated>2013-08-04T21:02:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;release-v1.3.0&amp;#39;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/aa6681db349c94692226febbcd6e93b1f431869b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/aa6681db349c94692226febbcd6e93b1f431869b"/>
+    <title>
+        Bump version to 1.3.0 and update builds
+    </title>
+    <updated>2013-08-04T21:00:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump version to 1.3.0 and update builds&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9da034163f6285fc3fa59d888d95f3c60503f750</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/9da034163f6285fc3fa59d888d95f3c60503f750"/>
+    <title>
+        Fix aligment and remove outline from anchors
+    </title>
+    <updated>2013-08-04T20:50:51Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix aligment and remove outline from anchors&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f9aa351a384fbf1be01cfb1e442636be7c8e217c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/f9aa351a384fbf1be01cfb1e442636be7c8e217c"/>
+    <title>
+        add hint--bounce to modifier list
+    </title>
+    <updated>2013-08-04T20:44:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add hint--bounce to modifier list&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3ccdc6a3ff9b43d9200236c56b261c812dbc5d89</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/3ccdc6a3ff9b43d9200236c56b261c812dbc5d89"/>
+    <title>
+        add bounce effect to tooltips
+    </title>
+    <updated>2013-08-04T20:41:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add bounce effect to tooltips&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

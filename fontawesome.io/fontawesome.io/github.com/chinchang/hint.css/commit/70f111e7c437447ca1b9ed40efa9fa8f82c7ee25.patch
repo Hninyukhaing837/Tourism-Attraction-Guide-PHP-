@@ -1,0 +1,34 @@
+From 70f111e7c437447ca1b9ed40efa9fa8f82c7ee25 Mon Sep 17 00:00:00 2001
+From: Kushagra Gour <chinchang457@gmail.com>
+Date: Mon, 26 Jun 2017 17:12:44 +0530
+Subject: [PATCH] add web maker to user list
+
+---
+ README.md | 7 ++++---
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+
+diff --git a/README.md b/README.md
+index 68ca818..f3968cb 100644
+--- a/README.md
++++ b/README.md
+@@ -67,16 +67,17 @@ To generate the css file, please read the [contributing page](./CONTRIBUTING.md)
+ - [Webflow Playground](http://playground.webflow.com/)
+ - [Panda chrome app](http://usepanda.com/)
+ - [Fiverr](https://www.fiverr.com/)
+-- [Tolks](https://tolks.io)
+ - [Stackshare](http://stackshare.io/)
++- [Siftery](https://siftery.com/)
++- [LessPass](https://lesspass.com/#/)
+ - [Tridiv](http://tridiv.com/)
+ - [Alm - TypeScript IDE](http://alm.tools/)
+ - [Prototyp](http://prototyp.in/)
+ - [Tradus](http://tradus.com/)
++- [Web Maker](https://webmakerapp.com)
++- [Tolks](https://tolks.io)
+ - [Formspree](http://formspree.io/)
+-- [LessPass](https://lesspass.com/#/)
+ - [codeMagic](http://codemagic.gr/)
+-- [Siftery](https://siftery.com/)
+ 
+ Are you using **hint.css** in your awesome project too? Just tweet it out to [@hint_css](https://twitter.com/hint_css) or let us know on the [mailing list](mailto:hintcss@googlegroups.com).
+ 

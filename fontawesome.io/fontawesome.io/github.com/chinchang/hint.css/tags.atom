@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chinchang/hint.css/releases</id>
+  <link type="text/html" rel="alternate" href="/chinchang/hint.css/releases"/>
+  <link type="application/atom+xml" rel="self" href="/chinchang/hint.css/releases.atom"/>
+  <title>Tags from hint.css</title>
+  <updated>2017-04-22T20:16:19Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Repository/7379964/v2.5.0</id>
+    <updated>2017-04-22T20:16:19Z</updated>
+    <link rel="alternate" type="text/html" href="/chinchang/hint.css/releases/tag/v2.5.0"/>
+    <title>v2.5.0</title>
+    <content></content>
+    <author>
+      <name>chinchang</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/379918?v=4&amp;s=60"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/7379964/v2.4.1</id>
+    <updated>2016-11-07T20:25:41Z</updated>
+    <link rel="alternate" type="text/html" href="/chinchang/hint.css/releases/tag/v2.4.1"/>
+    <title>v2.4.1</title>
+    <content></content>
+    <author>
+      <name>chinchang</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/379918?v=4&amp;s=60"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/7379964/v2.4.0</id>
+    <updated>2016-09-17T08:15:01Z</updated>
+    <link rel="alternate" type="text/html" href="/chinchang/hint.css/releases/tag/v2.4.0"/>
+    <title>v2.4.0</title>
+    <content></content>
+    <author>
+      <name>chinchang</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/379918?v=4&amp;s=60"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/7379964/v2.3.2</id>
+    <updated>2016-07-28T11:11:35Z</updated>
+    <link rel="alternate" type="text/html" href="/chinchang/hint.css/releases/tag/v2.3.2"/>
+    <title>v2.3.2</title>
+    <content></content>
+    <author>
+      <name>chinchang</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/379918?v=4&amp;s=60"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/7379964/v2.3.1</id>
+    <updated>2016-06-05T09:23:47Z</updated>
+    <link rel="alternate" type="text/html" href="/chinchang/hint.css/releases/tag/v2.3.1"/>
+    <title>v2.3.1</title>
+    <content></content>
+    <author>
+      <name>chinchang</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/379918?v=4&amp;s=60"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/7379964/v2.3.0</id>
+    <updated>2016-05-21T09:44:00Z</updated>
+    <link rel="alternate" type="text/html" href="/chinchang/hint.css/releases/tag/v2.3.0"/>
+    <title>v2.3.0</title>
+    <content></content>
+    <author>
+      <name>chinchang</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/379918?v=4&amp;s=60"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/7379964/v2.2.1</id>
+    <updated>2016-03-26T11:45:13Z</updated>
+    <link rel="alternate" type="text/html" href="/chinchang/hint.css/releases/tag/v2.2.1"/>
+    <title>v2.2.1</title>
+    <content></content>
+    <author>
+      <name>chinchang</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/379918?v=4&amp;s=60"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/7379964/v2.2.0</id>
+    <updated>2016-03-07T21:15:06Z</updated>
+    <link rel="alternate" type="text/html" href="/chinchang/hint.css/releases/tag/v2.2.0"/>
+    <title>v2.2.0</title>
+    <content></content>
+    <author>
+      <name>chinchang</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/379918?v=4&amp;s=60"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/7379964/v2.1.0</id>
+    <updated>2016-02-14T22:20:17Z</updated>
+    <link rel="alternate" type="text/html" href="/chinchang/hint.css/releases/tag/v2.1.0"/>
+    <title>v2.1.0</title>
+    <content></content>
+    <author>
+      <name>chinchang</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/379918?v=4&amp;s=60"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/7379964/v2.0.0</id>
+    <updated>2016-01-25T10:17:57Z</updated>
+    <link rel="alternate" type="text/html" href="/chinchang/hint.css/releases/tag/v2.0.0"/>
+    <title>v2.0.0</title>
+    <content></content>
+    <author>
+      <name>chinchang</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/379918?v=4&amp;s=60"/>
+  </entry>
+</feed>

@@ -1,0 +1,26 @@
+From 0e78b09849e338180b55fd3b7507dfa0ae3b838a Mon Sep 17 00:00:00 2001
+From: Marco Biedermann <marco.biedermann@gmx.de>
+Date: Mon, 29 Feb 2016 19:30:38 +0100
+Subject: [PATCH] add .editorconfig
+
+---
+ .editorconfig | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+ create mode 100644 .editorconfig
+
+diff --git a/.editorconfig b/.editorconfig
+new file mode 100644
+index 0000000..0876270
+--- /dev/null
++++ b/.editorconfig
+@@ -0,0 +1,10 @@
++# editorconfig.org
++
++root = true
++
++[*]
++charset = utf-8
++end_of_line = lf
++indent_style = tab
++insert_final_newline = true
++trim_trailing_whitespace = true

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chinchang/hint.css/commits/f6920a55adb86ea2eb4cff30950ddb6f2718dd7e</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commits/f6920a55adb86ea2eb4cff30950ddb6f2718dd7e"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chinchang/hint.css/commits/f6920a55adb86ea2eb4cff30950ddb6f2718dd7e.atom"/>
+  <title>Recent Commits to hint.css:f6920a55adb86ea2eb4cff30950ddb6f2718dd7e</title>
+  <updated>2016-05-21T09:39:14Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f6920a55adb86ea2eb4cff30950ddb6f2718dd7e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/f6920a55adb86ea2eb4cff30950ddb6f2718dd7e"/>
+    <title>
+        change some examples to use old data-hint attr.
+    </title>
+    <updated>2016-05-21T09:39:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;change some examples to use old data-hint attr.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7ea96ff38cc0607f063395ac72c9b3af5e480b83</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/7ea96ff38cc0607f063395ac72c9b3af5e480b83"/>
+    <title>
+        typo
+    </title>
+    <updated>2016-05-21T09:34:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;typo&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/68d7ae0b3e5489475f059e55f9356dc4acb8e43b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/68d7ae0b3e5489475f059e55f9356dc4acb8e43b"/>
+    <title>
+        Merge pull request #137 from chinchang/a11y
+    </title>
+    <updated>2016-05-21T09:31:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #137 from chinchang/a11y
+
+Add screen reader support using aria-label attribute&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9317acf7abe28b2b7a2b573c3ed5cd456f5f3d56</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/9317acf7abe28b2b7a2b573c3ed5cd456f5f3d56"/>
+    <title>
+        Add docs to use aria-label attribute
+    </title>
+    <updated>2016-05-21T09:32:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add docs to use aria-label attribute&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bea5c8df1df14a52e2277e5353ae3233ffa0077f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/bea5c8df1df14a52e2277e5353ae3233ffa0077f"/>
+    <title>
+        Merge remote-tracking branch &#39;origin/master&#39; into a11y
+    </title>
+    <updated>2016-05-19T09:57:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge remote-tracking branch &amp;#39;origin/master&amp;#39; into a11y&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d51d01b6d9e5f3add65ed9c3f9641cf78707ac53</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/d51d01b6d9e5f3add65ed9c3f9641cf78707ac53"/>
+    <title>
+        reset css builds
+    </title>
+    <updated>2016-05-19T09:51:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;reset css builds&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/25280804a6c3feb5556fbcbd0fe4e2c8741bad82</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/25280804a6c3feb5556fbcbd0fe4e2c8741bad82"/>
+    <title>
+        add updated css files.
+    </title>
+    <updated>2016-04-18T20:40:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add updated css files.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cc35fa1aa861b681118fd2da694020e5cd9a706e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/cc35fa1aa861b681118fd2da694020e5cd9a706e"/>
+    <title>
+        support both aria-label &amp; data-hint attribute. fixes #81
+    </title>
+    <updated>2016-04-18T20:26:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;support both aria-label &amp;amp; data-hint attribute. fixes #81&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9ede1d4da020ef7e85356a4d46862db45142ac6a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/9ede1d4da020ef7e85356a4d46862db45142ac6a"/>
+    <title>
+        add prototyp to user list
+    </title>
+    <updated>2016-03-26T21:06:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add prototyp to user list&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d3b904418d7494efa0dadbd7112940c29f36d69e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/d3b904418d7494efa0dadbd7112940c29f36d69e"/>
+    <title>
+        bump to v2.2.1.
+    </title>
+    <updated>2016-03-26T11:45:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;bump to v2.2.1.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e76f9fa555742b03376e7d7ea987df9f8dd200ae</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/e76f9fa555742b03376e7d7ea987df9f8dd200ae"/>
+    <title>
+        doc(position): add comments for +1px space hack.
+    </title>
+    <updated>2016-03-26T11:42:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;doc(position): add comments for +1px space hack.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1b85cb37b6eb4c6983db9bb316ef77ef28d28662</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/1b85cb37b6eb4c6983db9bb316ef77ef28d28662"/>
+    <title>
+        fix(demo): remove extra link.
+    </title>
+    <updated>2016-03-26T11:37:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix(demo): remove extra link.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c00fd6ce21d0a58d48b1620a006c8640f212f369</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/c00fd6ce21d0a58d48b1620a006c8640f212f369"/>
+    <title>
+        fix(position): Make arrows always show in center. fixes #135.
+    </title>
+    <updated>2016-03-26T11:37:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix(position): Make arrows always show in center. fixes #135.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e004a4c797abe6a3afef950cd42e186a840d2d12</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/e004a4c797abe6a3afef950cd42e186a840d2d12"/>
+    <title>
+        Merge pull request #128 from jdan/a11y
+    </title>
+    <updated>2016-03-14T19:13:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #128 from jdan/a11y
+
+Populate tooltip content using the aria-label attribute&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b33142730a936816705a2f0748ceeb70b4aac50b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/b33142730a936816705a2f0748ceeb70b4aac50b"/>
+    <title>
+        bump to 2.2.0.
+    </title>
+    <updated>2016-03-07T21:15:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;bump to 2.2.0.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/701742f77ba2e1b67541aef76eff1933ee172d79</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/701742f77ba2e1b67541aef76eff1933ee172d79"/>
+    <title>
+        Merge pull request #134 from chinchang/dev
+    </title>
+    <updated>2016-03-07T21:12:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #134 from chinchang/dev
+
+add size options&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b894f63f69171f52294c8bac809d984cda642fad</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/b894f63f69171f52294c8bac809d984cda642fad"/>
+    <title>
+        add default to variables n typo fix.
+    </title>
+    <updated>2016-03-07T21:05:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add default to variables n typo fix.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/691fd4f267e9328511f7b3a0b1bea8830e5a732d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/691fd4f267e9328511f7b3a0b1bea8830e5a732d"/>
+    <title>
+        fix readme.
+    </title>
+    <updated>2016-03-07T21:02:03Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix readme.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8409f3a1e17eb2c13461ba96572ac340c89df560</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/8409f3a1e17eb2c13461ba96572ac340c89df560"/>
+    <title>
+        add sizes to base version too
+    </title>
+    <updated>2016-03-06T21:24:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add sizes to base version too&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/db645af5470621053ed83d11de5be72c390bb9c3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/db645af5470621053ed83d11de5be72c390bb9c3"/>
+    <title>
+        fix size modifiers naming.
+    </title>
+    <updated>2016-03-06T21:20:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix size modifiers naming.&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

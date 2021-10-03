@@ -1,0 +1,18 @@
+From c72b372c61948c9a5d9370875652e3302cfed1b0 Mon Sep 17 00:00:00 2001
+From: Kushagra Gour <chinchang457@gmail.com>
+Date: Sun, 22 Nov 2015 17:22:48 +0530
+Subject: [PATCH] add map files to gitignore.
+
+---
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/.gitignore b/.gitignore
+index 63669d0..bae9f2a 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -2,3 +2,4 @@
+ node_modules/
+ hint.sublime-project
+ hint.sublime-workspace
++*.map

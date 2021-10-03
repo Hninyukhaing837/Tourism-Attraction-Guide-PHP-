@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chinchang/hint.css/commits/ee20a62cca41e501de21d28d36eef92b9bf10bed</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commits/ee20a62cca41e501de21d28d36eef92b9bf10bed"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chinchang/hint.css/commits/ee20a62cca41e501de21d28d36eef92b9bf10bed.atom"/>
+  <title>Recent Commits to hint.css:ee20a62cca41e501de21d28d36eef92b9bf10bed</title>
+  <updated>2017-04-22T20:16:19Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ee20a62cca41e501de21d28d36eef92b9bf10bed</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/ee20a62cca41e501de21d28d36eef92b9bf10bed"/>
+    <title>
+        bump to 2.5.0
+    </title>
+    <updated>2017-04-22T20:16:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;bump to 2.5.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a6e356ee0af50f000f28bb748da8b5b35cbf7f1b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/a6e356ee0af50f000f28bb748da8b5b35cbf7f1b"/>
+    <title>
+        Merge pull request #163 from crabbly/transition-duration
+    </title>
+    <updated>2017-04-22T19:35:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #163 from crabbly/transition-duration
+
+customize transition duration&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/91b113f9ee3773ab75c621bdf8cc2d2ea9d4b966</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/91b113f9ee3773ab75c621bdf8cc2d2ea9d4b966"/>
+    <title>
+        fix license in banner. fixes #161
+    </title>
+    <updated>2017-04-22T19:25:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix license in banner. fixes #161&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6d64fac540c7206dfc5c8f2761b3bb5925698797</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/6d64fac540c7206dfc5c8f2761b3bb5925698797"/>
+    <title>
+        customize transition duration
+    </title>
+    <updated>2017-04-15T20:10:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/16927940?v=4&amp;s=30"/>
+    <author>
+      <name>crabbly</name>
+      <uri>https://github.com/crabbly</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;customize transition duration&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8043580a884d1bfbc232949e83b92595741caf05</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/8043580a884d1bfbc232949e83b92595741caf05"/>
+    <title>
+        update user list
+    </title>
+    <updated>2017-01-16T20:26:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;update user list&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/842c8d5f3da65142425e3489d55a01539669cf65</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/842c8d5f3da65142425e3489d55a01539669cf65"/>
+    <title>
+        build 2.4.1
+    </title>
+    <updated>2016-11-07T20:25:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;build 2.4.1&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e81309ff28c7734d7ad9258a6c0c0b603db4537a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/e81309ff28c7734d7ad9258a6c0c0b603db4537a"/>
+    <title>
+        Merge branch &#39;th3fallen-patch-2&#39;
+    </title>
+    <updated>2016-11-07T20:22:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;th3fallen-patch-2&amp;#39;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ab7ceeb7e03ef129508cd5d229e66df8505bbc4a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/ab7ceeb7e03ef129508cd5d229e66df8505bbc4a"/>
+    <title>
+        Add main key to package.json
+    </title>
+    <updated>2016-11-07T20:20:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/291859?v=4&amp;s=30"/>
+    <author>
+      <name>th3fallen</name>
+      <uri>https://github.com/th3fallen</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add main key to package.json
+
+Add a main key to package.json for webpack with package splitting&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/23f479f66afc9944aa21b48b57d17a99875d6815</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/23f479f66afc9944aa21b48b57d17a99875d6815"/>
+    <title>
+        add lesspass to user list
+    </title>
+    <updated>2016-11-01T20:30:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add lesspass to user list&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/11461485cbf309cf5c414e57b560a542a95af906</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/11461485cbf309cf5c414e57b560a542a95af906"/>
+    <title>
+        Update README.md
+    </title>
+    <updated>2016-09-18T10:09:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7c205d93ffafcb41c64f8a00277a8f9a9212406d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/7c205d93ffafcb41c64f8a00277a8f9a9212406d"/>
+    <title>
+        bump to 2.4.0
+    </title>
+    <updated>2016-09-17T08:15:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;bump to 2.4.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e99ca9b925e5acbbe0ddd0fbd8de7a02f2f43c9d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/e99ca9b925e5acbbe0ddd0fbd8de7a02f2f43c9d"/>
+    <title>
+        remove license from banner.
+    </title>
+    <updated>2016-09-17T08:15:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;remove license from banner.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/af4af713dbd1808e6f9ce70fb3249bcfc2ea01b1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/af4af713dbd1808e6f9ce70fb3249bcfc2ea01b1"/>
+    <title>
+        update to commercial license
+    </title>
+    <updated>2016-09-17T08:15:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;update to commercial license&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e3150685b3a7e2e8f8a08b3a65f28189c5980dc1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/e3150685b3a7e2e8f8a08b3a65f28189c5980dc1"/>
+    <title>
+        add fiverr
+    </title>
+    <updated>2016-08-15T19:56:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add fiverr&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b94fcfd5dc358df8581c9fadd3de74043f23f56c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/b94fcfd5dc358df8581c9fadd3de74043f23f56c"/>
+    <title>
+        add faq wiki link
+    </title>
+    <updated>2016-08-01T18:20:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add faq wiki link&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8b63bde325f4f77d4eaad7cf5ba1c5542704a0de</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/8b63bde325f4f77d4eaad7cf5ba1c5542704a0de"/>
+    <title>
+        bump to 2.3.2
+    </title>
+    <updated>2016-07-28T11:11:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;bump to 2.3.2&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3d11dd057f85a47ef1f2effa91ba734b79d2c625</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/3d11dd057f85a47ef1f2effa91ba734b79d2c625"/>
+    <title>
+        Merge pull request #147 from shadowhand/patch-1
+    </title>
+    <updated>2016-07-28T11:08:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #147 from shadowhand/patch-1
+
+Prevent long words from overflowing&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dcc1f770a4759b0dfd3537e7c30be5c5f003f474</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/dcc1f770a4759b0dfd3537e7c30be5c5f003f474"/>
+    <title>
+        Prevent long words from overflowing
+    </title>
+    <updated>2016-07-27T19:08:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/38203?v=4&amp;s=30"/>
+    <author>
+      <name>shadowhand</name>
+      <uri>https://github.com/shadowhand</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Prevent long words from overflowing&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/82adf5b29caebf8efe960a0e8724c961e25d4770</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/82adf5b29caebf8efe960a0e8724c961e25d4770"/>
+    <title>
+        add tolks to users
+    </title>
+    <updated>2016-07-06T10:30:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add tolks to users&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8c6e3b59bbf87046a9d01867146f8ccb8bda0c72</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chinchang/hint.css/commit/8c6e3b59bbf87046a9d01867146f8ccb8bda0c72"/>
+    <title>
+        bump to 2.3.1
+    </title>
+    <updated>2016-06-05T09:23:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/379918?v=4&amp;s=30"/>
+    <author>
+      <name>chinchang</name>
+      <uri>https://github.com/chinchang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;bump to 2.3.1&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

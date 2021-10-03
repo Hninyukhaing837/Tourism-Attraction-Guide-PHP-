@@ -1,0 +1,23 @@
+From e99ca9b925e5acbbe0ddd0fbd8de7a02f2f43c9d Mon Sep 17 00:00:00 2001
+From: Kushagra Gour <chinchang457@gmail.com>
+Date: Sat, 17 Sep 2016 13:43:16 +0530
+Subject: [PATCH] remove license from banner.
+
+---
+ Gruntfile.js | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+
+diff --git a/Gruntfile.js b/Gruntfile.js
+index 98034bf..afeeac9 100644
+--- a/Gruntfile.js
++++ b/Gruntfile.js
+@@ -14,8 +14,7 @@ module.exports = function(grunt) {
+ 			},
+ 			banner: '<%= grunt.template.today("yyyy-mm-dd") + "\\n" %>' +
+ 				'<%= pkg.homepage ? "* " + pkg.homepage + "\\n" : "" %>' +
+-				'* Copyright (c) <%= grunt.template.today("yyyy") %> <%= pkg.author.name %>;' +
+-				' Licensed <%= _.pluck(pkg.licenses, "type").join(", ") %> */\n\n'
++				'* Copyright (c) <%= grunt.template.today("yyyy") %> <%= pkg.author.name %> */\n\n'
+ 		},
+ 
+ 		sass: {

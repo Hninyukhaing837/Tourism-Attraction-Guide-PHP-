@@ -1,0 +1,9 @@
+diff --git a/.gitignore b/.gitignore
+index 63669d0..bae9f2a 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -2,3 +2,4 @@
+ node_modules/
+ hint.sublime-project
+ hint.sublime-workspace
++*.map
